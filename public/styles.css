@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+div{
+    width: 80%;
+    margin: 20px; 
+    padding: 15px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+/*.mi-contenedor {
+    width: 80%;
+    margin: 20px; 
+    padding: 15px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}*/
